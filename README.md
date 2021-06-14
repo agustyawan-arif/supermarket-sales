@@ -10,5 +10,5 @@ This dashboard is an interactive dashboard created using Microsoft Excel by util
 About:
 * I am using public dataset from kaggle. Can be downloaded at the following link [click here](https://www.kaggle.com/aungpyaeap/supermarket-sales)
 * I have also downloaded the dataset and included it in this repository folder with the file name `supermarket_sales - dataset.csv`
-* Datasets that have gone through the preprocessing stage (cleansing etc.) are in one file `Supermarket Sales Dashboard.xlsx`
+* Datasets that have gone through the preprocessing stage (cleansing etc.) are in one file `Dashboard.xlsx`
 * Interactive Dashboard is in file `Dashboard.xlsx`
